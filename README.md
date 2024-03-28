@@ -1,6 +1,8 @@
 # GSoC--2024-DeepLense
-March 2024
+![ml4sci_logo_angled](https://github.com/0-kush-0/GSoC--2024-DeepLense/assets/98215349/92f19fd2-feac-425d-8a45-a88090665a67)                   ![GSoC-icon-192](https://github.com/0-kush-0/GSoC--2024-DeepLense/assets/98215349/19ef0353-a205-4dd7-9d23-5dffe6dc40e2)  
 
+
+March 2024
 ## About Me  
 I am Kush Mathukiya, a final year Computer Science student at PDEU (Pandit Deendayal Energy University). I have been interested in and working towards ML since my second year. However, I have been working on Generative AI, specifically on diffusion models for about 1 year. Previously, I have worked on developing diffusion models for Morphing Attack Detection (MAD) where I used hard example mining and two-scale diffusion architecture. This year, I'm interning at ISRO (Indian Space Research Organisation) where I'm working on SISR (Single Image Super Resolution) through diffusion models.  
 
