@@ -4,7 +4,7 @@
 
 March 2024
 ## About Me  
-I am Kush Mathukiya, a final year Computer Science student at PDEU (Pandit Deendayal Energy University). I have been interested in and working towards ML since my second year. However, I have been working on Generative AI, specifically on diffusion models for about 1 year. Previously, I have worked on developing diffusion models for Morphing Attack Detection (MAD) where I used hard example mining and two-scale diffusion architecture. This year, I'm interning at ISRO (Indian Space Research Organisation) where I'm working on SISR (Single Image Super Resolution) through diffusion models.  
+I am Kush Mathukiya, a final year Computer Science student at PDEU (Pandit Deendayal Energy University). I have been interested in and working towards ML since my second year. I have been working on Generative AI, specifically on diffusion models for about 1 year. Previously, I have worked on developing diffusion models for Morphing Attack Detection (MAD) where I used hard example mining and two-scale diffusion architecture. This year, I'm interning at ISRO (Indian Space Research Organisation) where I'm working on SISR (Single Image Super Resolution) through diffusion models.  
 
 
 The given repository contains solutions to the following:  
