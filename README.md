@@ -41,7 +41,7 @@ How do they work?
 Parts of the forward diffusion and mean, variance estimation are based on the implementation by Karras et al. [4].  
 The beta/noise/variance schedule is based on [3] whereby the authors proved that the cosine beta schedule performs better than a linear schedule at optimally noising the images.  
 My UNet model comprises 4 downsampling blocks, two middle blocks where a single attention layer is used, and 4 upsampling blocks. Channel expansion is done twice.  
-The training was done for 100 epochs, batch size was set to 16, and the training loss used was L1 as L2 loss usually blurs out edges. 1000 sampling timesteps were used but 16 samples were generated in 15 seconds.  
+The training was done for 100 epochs, batch size was set to 16, and the training loss used was L1 as L2 loss usually blurs out edges. 1000 sampling timesteps (one iteration) took 15 seconds and the model can produce 16 samples in one iteration.  
 
 **Evaluation**  
 Some generated samples:  
