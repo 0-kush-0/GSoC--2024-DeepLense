@@ -9,7 +9,6 @@ I am Kush Mathukiya, a final year Computer Science student at PDEU (Pandit Deend
 
 The given repository contains solutions to the following:  
 ### **The model weights for each test are stored in Google Drive, the link to which is provided in each CommonTest1/model_weights/link.txt and SpecificTest4/model_weights/link.txt**  
-## **!Important Note!  This repository was updated, specifically the weights and notebook for Specific Test 4. The updated material was NOT mailed again so as to not cause confusion. Please find the updated materials here.**
 
 ## 1) Common Test I. Multi-Class Classification  
 **Data**  
