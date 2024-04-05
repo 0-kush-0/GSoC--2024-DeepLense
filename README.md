@@ -49,7 +49,7 @@ Some generated samples:
 Visually, these generated samples are not easy to differentiate from actual samples. But qualitatively? To assess the quality and diversity of generated images while also assessing the similarity to ground truth data, we use FID (Fréchet Inception Distance).   
 **Note**  
 It is important to note that FID scores calculated on features with dimensionality less than 2048 cannot be compared with those calculated on features with 2048 dimensionality. The former scores might also no longer correlate with visual quality. [5]    
-Hence I have calculated FID 3040 images with 2048 feature dimensionality. **The FID score obtained was 4.614262622096618** 
+Hence I have calculated FID 2048 images with 2048 feature dimensionality. **The FID score obtained was 4.614262622096618** 
 
 # References  
 [1] Tan, M. and Le, Q.V. (2019) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36th International Conference on Machine Learning, ICML 2019, Long Beach, 9-15 June 2019, 6105-6114.  
