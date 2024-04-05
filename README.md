@@ -9,6 +9,8 @@ I am Kush Mathukiya, a final year Computer Science student at PDEU (Pandit Deend
 
 The given repository contains solutions to the following:  
 ### **The model weights for each test are stored in Google Drive, the link to which is provided in each CommonTest1/model_weights/link.txt and SpecificTest4/model_weights/link.txt**  
+## **!Important Note!  This repository was updated, specifically the weights and notebook for Specific Test 4. The updated material was NOT mailed again so as to not cause confusion. Please find the updated materials here.**
+
 ## 1) Common Test I. Multi-Class Classification  
 **Data**  
 For this test, we were required to classify a dataset comprising 30,000 training images belonging to three classes: no dark matter substructure, vortex substructure, and spherical substructure. The validation dataset comprising 7500 images (2500 for each class) was split in a 90:10 validation-to-testing ratio. The images were resized to 100 x 100 resolution to make them compatible with the model.  
